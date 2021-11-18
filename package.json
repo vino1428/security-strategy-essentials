@@ -17,3 +17,6 @@
   },
   "license": "MIT"
 }
+"dependencies": {
+  "debug": ">=2.6.9"
+}
